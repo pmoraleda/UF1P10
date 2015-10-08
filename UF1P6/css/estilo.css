@@ -12,7 +12,7 @@ ul,ol{
  list-style: none; /* Treu els punts dels elements del menu*/
 }
 .nav li a{
-    background-color: black;
+    background-color: black; /* color fondo negra*/
     color: white; /*color lletra*/
     text-decoration: none; /* treu subrallat */
     padding: 10px 15px; /* relleno a les casellas*/
