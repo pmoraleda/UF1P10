@@ -1,0 +1,65 @@
+div#contenidor {
+    width: 960px;
+    height: 800px;
+    background-color: limegreen;
+}
+
+div#marro {
+    width: 960px;
+    height: 75px;
+    background-color: saddlebrown;
+}
+div#groc {
+    width: 250px;
+    height: 500px;
+    background-color: yellow;
+    float: left
+}
+div#verd {
+    width: 710px;
+    height: 500px;
+    background-color: darkgreen;
+    float: right;
+}
+div#marroclar1{
+    margin: 10px 0px 10px 10px;
+    width: 200px;
+    height: 350px;
+    background-color: rosybrown;
+    position: absolute;
+}
+div#marroclar2{
+    margin: 10px 10px 10px 500px;
+    width: 200px;
+    height: 350px;
+    background-color: rosybrown;
+    position: absolute;
+}
+div#marroclar3 {
+    margin: 370px 10px 10px 10px;
+    width: 690px;
+    height: 120px;
+    background-color: rosybrown;
+    position: absolute;
+}
+div#blaucel {
+    height: 225px;
+    width: 960px;
+    margin-top: 500px;
+    background-color: deepskyblue;
+}
+div#blaufosc {
+    margin: 10px 0px 10px 10px;
+    height: 205px;
+    width: 300px;
+    background-color: darkblue;
+    position: absolute;
+    float: left;
+}
+div#blauclar {
+    margin: 10px 10px 10px 0px;
+    height: 205px;
+    width: 200px;
+    background-color: cadetblue;
+    float: right;
+}
