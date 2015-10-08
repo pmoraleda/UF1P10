@@ -1,0 +1,43 @@
+div#total {
+    width: 100%;
+    height: 100%;
+}
+div#menu1{
+    width: 100%;
+    height: 100px;
+    background-color: red;
+}
+.tipus {
+    width: 25%;
+    height: 100px;
+    display: inline-block;
+    float: left;
+    background-color: orange;
+}
+.altre:hover {
+    background-color: yellow;
+}
+div#capsa {
+    width: 80%;
+    height: 350px;
+    background-color: forestgreen;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.peu {
+    width: 100%;
+    height: 100px;
+    background-color: lightgoldenrodyellow;
+}
+#capsa:hover {
+    background-image: url(http://webfacil.tinet.cat/usuaris/jesferre/01912_shoreofthefractalsea_1280x800_20090604181605.jpg);
+    background-size: cover;
+}
+.peu:hover {
+    background-image: url(http://webfacil.tinet.cat/usuaris/rosabon/01845_waterdropsontherainbow_1280x800_20090604181421.jpg);
+    -webkit-background-size: cover;
+    background-size: ;
+}
+
