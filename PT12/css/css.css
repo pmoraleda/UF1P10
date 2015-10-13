@@ -1,0 +1,64 @@
+.boto {
+    background: #7f8c8d;
+    color: white;
+    display: inline-block;
+    font-size: 1.25em;
+    margin:10px;
+    padding: 10px 0px;
+    text-align: center;
+    width: 200px;
+    text-decoration: none;
+    box-shadow: 0px 3px 0px #373c3c;
+}
+.boto span {
+    margin-right: 10px;
+    font-size: 1.25em;
+    
+}
+.boto.blue {
+    background-color: #3498db;
+    box-shadow: 0px 3px 0px #2980b9;
+}
+.boto.verd {
+    background-color: #2ecc71;
+    box-shadow: 0px 3px 0px #27ae60;
+}
+.boto.mitja {
+    width: 600px;
+    height: 30px;
+    
+}
+.boto.gran{
+    width: 450px;
+}
+.boto.rodo {
+    border-radius: 10px;
+}
+.boto.gran:hover{
+    box-shadow: 0px 5px 10px black;
+    padding-top: 11px;
+    background-color: black;
+}
+.boto.cercle {
+    border-radius: 60px;
+    height: 50px;
+    width: 100px
+}
+.boto.sombrahard {
+    box-shadow: 5px 10px 5px black;
+    border-radius: 100px;
+    
+}
+.boto:hover{
+    box-shadow: 0px 5px 10px black;
+    padding-top: 11px;
+}
+div#iniciblue p {
+    font-size: 20px;
+    font-style: oblique;
+    font-family: fantasy;
+    text-shadow: 0px 2px 1px;
+    
+}
+div#iniciverd {
+}
